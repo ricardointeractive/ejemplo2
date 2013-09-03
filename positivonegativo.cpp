@@ -6,7 +6,7 @@ using namespace std;
 
 int main(int argc, char *argv[])
 	{
-	int numero;
+	int numero,papa;
 	printf("Inserte su numero: ");
 	scanf("%d",&numero);
 	if(numero==0)
